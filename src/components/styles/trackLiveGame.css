@@ -1,0 +1,31 @@
+.trackLiveGame-container {
+  margin: 20px 0;
+}
+.trackLiveGameLogo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.games-container {
+  border: 2px solid rgb(202, 202, 202);
+  margin: 30px 0px;
+  border-radius: 12px;
+  background-color: #0077b6;
+  box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.games-text {
+  padding-left: 20px;
+  color: #fff;
+}
+
+.games {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.liveBidding {
+  height: 200px;
+}

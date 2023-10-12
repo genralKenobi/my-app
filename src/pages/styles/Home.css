@@ -1,0 +1,79 @@
+/* .container {
+  margin-top: 40px;
+} */
+.mainLogo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  color: rgb(17, 233, 17);
+}
+
+.bellLogo {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.bellLogo:hover {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+  color: rgb(161, 161, 161);
+  transition: 500ms;
+}
+
+.drawerlogo {
+  height: 20px;
+  width: 20px;
+  /* color: rgb(18, 98, 163); */
+  margin-right: 10px;
+}
+
+.mainlogoContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.dashboardLogo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.navbar {
+  height: 60px;
+  width: 100vw;
+  /* margin-top: 40px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #0077b6;
+}
+
+.drawerContainer {
+  background-color: #cfcfcf;
+  height: 100%;
+  /* margin-top: 40px; */
+}
+
+.drawerbalance {
+  text-align: center;
+  padding: 10px;
+  font-size: larger;
+  font-weight: 800;
+  color: rgb(61, 61, 61);
+}
+.drawerbalance > span {
+  text-align: center;
+  padding: 10px;
+  font-size: medium;
+  font-weight: 800;
+  color: rgb(46, 141, 3);
+}
+
+.dashboadGridItem {
+  width: auto;
+  height: 100px;
+  border: 2px solid red;
+}
